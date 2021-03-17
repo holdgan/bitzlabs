@@ -408,7 +408,10 @@ section.callout h3 {
 	padding-bottom: 0;
 }
 
-.list-item .icon,
+.list-item .icon {
+	padding: 25px;
+}
+
 .list-item .desc {
 	flex: 1;
 	-webkit-flex: 1;
